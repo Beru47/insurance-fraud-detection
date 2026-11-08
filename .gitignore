@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+data/
+models/
+mlruns/
+mlartifacts/
+reports/
+*.joblib
+*.csv
+!docs/*.csv
+.env
